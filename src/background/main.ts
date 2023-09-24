@@ -10,5 +10,5 @@ chrome.tabs.onUpdated.addListener(async (tabId, changeInfo, tab) => {
   const url = tab.url;
   if (!url) throw new Error('tab.url is empty');
   if (url.startsWith(urlPrefix) && changeInfo.status === 'complete')
-    await chrome.tabs.sendMessage(tabId, { type: 'CHANGE_HISTORY', payload: { url } });
+    await chrome.tabs.sendMessage(tabId, { type: 'CHANGE_HISTORY' });
 });
