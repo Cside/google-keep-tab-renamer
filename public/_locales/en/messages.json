@@ -1,0 +1,20 @@
+{
+  "extensionName": {
+    "message": "Google Keep Tab Renamer"
+  },
+  "extensionDescription": {
+    "message": "FIXME"
+  },
+  "donation_heading": {
+    "message": "Found This Helpful?"
+  },
+  "donation_description": {
+    "message": "Your donation will help me to continue to develop this extension and make it even better."
+  },
+  "donation_donate": {
+    "message": "Donate"
+  },
+  "rateIt": {
+    "message": "Rate It"
+  }
+}
