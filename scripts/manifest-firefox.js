@@ -8,7 +8,7 @@ manifest.background = {
 };
 manifest.browser_specific_settings = {
   gecko: {
-    id: 'classic-amazon-stars@github.com',
+    id: 'google-keep-tab-renamer@github.com',
   },
 };
 

@@ -1,17 +1,14 @@
 {
   "chrome": {
-    "id": "nahhbhpfahionfaobhlmoldlicdaoddg",
+    "id": "mlilddnofnokloncdahjojoacbgmlenm",
     "developerId": "a66eb7ce-b7b6-4d92-a9cb-35d11a33896a"
   },
   "edge": {
-    "crxId": "mpjnchaiiljgjanbceaoampplmeeibdh",
-    "productId": "d1bda9f2-6467-446a-8e17-4df8cfbe2f80"
+    "crxId": "",
+    "productId": ""
   },
   "firefox": {
-    "id": "classic-amazon-stars@github.com",
-    "slug": "classic-amazon-stars"
-  },
-  "greasyFork": {
-    "id": 474149
+    "id": "google-keep-tab-renamer@github.com",
+    "slug": "google-keep-tab-renamer"
   }
 }
